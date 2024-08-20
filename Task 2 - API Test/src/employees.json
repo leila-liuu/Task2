@@ -1,0 +1,26 @@
+[
+    {
+        "FirstName": "Simran",
+        "LastName": "Mee",
+        "DateOfBirth": "1998-01-01",
+        "StartDate": "2020-01-01",
+        "Department": "Engineering",
+        "JobTitle": "Software Engineer",
+        "Email": "Simran.mee@example.com",
+        "Mobile": "+61445678990",
+        "Address": "123 Main St, Odoo, AU",
+        "BaseSalary": 95000
+},
+    {
+        "FirstName": "Jane",
+        "LastName": "Smith",
+        "DateOfBirth": "1985-05-15",
+        "StartDate": "2019-05-01",
+        "Department": "QA Engineer",
+        "JobTitle": "QA Manager",
+        "Email": "jane.smith@example.com",
+        "Mobile": "+1234567891",
+        "Address": "456 Elm St, Othertown, USA",
+        "BaseSalary": 175000
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "FirstName": {"type": "string"},
+        "LastName": {"type": "string"},
+        "DateOfBirth": {"type": "string", "format": "date"},
+        "StartDate": {"type": "string", "format": "date"},
+        "Department": {"type": "string"},
+        "JobTitle": {"type": "string"},
+        "Email": {"type": "string", "format": "email"},
+        "Mobile": {"type": "string"},
+        "Address": {"type": "string"},
+        "BaseSalary": {"type": "number"}
+    },
+    "required": ["FirstName", "LastName", "DateOfBirth", "StartDate", "Department", "JobTitle", "Email", "Mobile", "Address", "BaseSalary"]
+}
